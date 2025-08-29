@@ -31,6 +31,7 @@ Run the script with administrator privileges:
 
 
 python memory_cleaner.py
+
 Alternatively, create a .bat file to run it automatically:
 
 
