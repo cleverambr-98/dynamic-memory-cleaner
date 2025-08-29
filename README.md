@@ -29,16 +29,15 @@ Clone or download this repository.
 
 Run the script with administrator privileges:
 
-bash
-Copiar código
+
 python memory_cleaner.py
 Alternatively, create a .bat file to run it automatically:
 
-bat
-Copiar código
+
 @echo off
 cd "C:\path\to\script"
 python memory_cleaner.py
+
 💡 Right-click the .bat file and run as administrator.
 
 ⚠️ Note
